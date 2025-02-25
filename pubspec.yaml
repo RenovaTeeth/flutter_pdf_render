@@ -14,12 +14,12 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  js: ^0.7.1
+  js: ^0.7.2
   plugin_platform_interface: ^2.1.8
   vector_math: ^2.1.4
 
 dev_dependencies:
-  flutter_lints: ^4.0.0
+  flutter_lints: ^5.0.0
   flutter_test:
     sdk: flutter
 

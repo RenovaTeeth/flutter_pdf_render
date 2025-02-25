@@ -29,7 +29,7 @@ android {
         namespace("jp.espresso3389.pdf_render")
     }
     
-    compileSdkVersion 31
+    compileSdkVersion 35
      
     kotlinOptions {
         jvmTarget = '1.8'
@@ -43,7 +43,7 @@ android {
         }
     }
     defaultConfig {
-        minSdkVersion 21
+        minSdkVersion 24
     }
     lintOptions {
         disable 'InvalidPackage'
